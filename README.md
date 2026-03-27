@@ -1,7 +1,7 @@
 # Retail Sales Dashboard (Power BI)
 
 ## 📊 Project Overview
-This project shows sales analysis of a retail store using Power BI.
+This project shows sales analysis of a retail store using Power BI.![Retail Sales Dashboard](Screenshot%202026-03-28%20030714.png)
 
 ## 🔍 Key Insights
 - Total Sales
